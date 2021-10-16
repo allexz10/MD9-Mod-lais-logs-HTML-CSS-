@@ -94,7 +94,7 @@ h6 {
 }
 
 .modal {
-  position: absolute;
+  position: fixed;
   z-index: 2;
   left: 49%;
   top: 55%;
