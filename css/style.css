@@ -146,7 +146,7 @@ h6 {
 
 .modal__footer {
   background-color: rgba(25, 59, 103, 0.05); 
-  padding: 2px 0px 0px -18px;
+  padding: 2px 0px 0px 18px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
