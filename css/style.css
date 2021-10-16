@@ -320,9 +320,9 @@ h6 {
   }
   .modal {
     left: 50%;
-  }
-  
+  }  
 }
+
 @media only screen and (max-width: 724px) {
   .content {
     padding: 50px 15px;
